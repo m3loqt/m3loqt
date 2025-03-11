@@ -1,28 +1,20 @@
 # About Me
 
-Hello! I'm [Your Name], a passionate software developer based in Cebu City, Philippines. I specialize in building high-quality web applications and have a keen interest in open-source projects.
+Hello! I'm Mel Angelo, a dedicated software developer based in Cebu City, Philippines. I specialize in building robust web and mobile applications, with a strong focus on modern technologies and best practices.
 
 # Tech Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,python,mongodb,django,reactnative,androidstudio,flutter,express,github" />
   </a>
 </p>
 
 # Experience
 
-- **Software Developer at XYZ Corp** (Jan 2022 - Present)
-  - Developed and maintained web applications using React and Node.js.
-  - Collaborated with cross-functional teams to define and implement new features.
-  - Improved application performance, reducing load times by 30%.
+- **Freelance Developer** (Jan 2022 - Present)
+  - Developed and maintained scalable web applications using Next.js and React.
+  - Collaborated with cross-functional teams to design and implement new features.
+  - Enhanced application performance, reducing load times by 25%.
 
-- **Frontend Developer at ABC Ltd** (Jun 2020 - Dec 2021)
-  - Designed and implemented user interfaces with HTML, CSS, and JavaScript.
-  - Worked closely with designers to create responsive and user-friendly web pages.
-  - Optimized code for better performance and scalability.
 
-- **Intern at Tech Solutions** (Jan 2020 - May 2020)
-  - Assisted in developing internal tools using Python and Django.
-  - Participated in code reviews and team meetings.
-  - Gained hands-on experience in software development practices.
