@@ -6,7 +6,7 @@ Hello! I'm Mel Angelo, a dedicated software developer based in Cebu City, Philip
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,react,js,ts,python,mongodb,django,java,androidstudio,flutter,express,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,react,js,angular,flask,express,github" />
   </a>
 </p>
 
