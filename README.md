@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Mel Angelo, a dedicated software developer based in Cebu City, Philippines. I specialize in building robust web and mobile applications, with a strong focus on modern technologies and best practices.
+Hi, I’m Mel Angelo. I’m a software developer from Cebu City in the Philippines. I like turning ideas into web and mobile apps that people can actually use. I care about writing code that is clean and dependable, and I enjoy learning new things that make my work better.
 
 # Tech Stacks
 
