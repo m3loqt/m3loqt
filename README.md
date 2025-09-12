@@ -4,7 +4,7 @@ Hi, I’m Mel Angelo. I’m a software developer from Cebu City in the Philippin
 
 # Tech Stacks
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,nextjs,react,angular,flask,express,github" />
   </a>
