@@ -15,13 +15,13 @@ Hi, I’m Mel Angelo. I’m a software developer from Cebu City in the Philippin
 # 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=melangelocortes&show_icons=true&theme=tokyonight" alt="Mel Angelo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m3loqt&show_icons=true&theme=tokyonight" alt="Mel Angelo's GitHub stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melangelocortes&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3loqt&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melangelocortes&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3loqt&theme=tokyonight" alt="GitHub Streak" />
 </p>
