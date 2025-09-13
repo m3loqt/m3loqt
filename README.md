@@ -1,4 +1,4 @@
-<img src="assets/desk.gif" alt="pixel desk gif" width="100%" />
+<img src="/bg.gif" alt="pixel desk gif" width="100%" />
 
 # About Me
 
