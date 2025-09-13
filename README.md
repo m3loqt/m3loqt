@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./bg.gif" alt="pixel desk gif" width="800"/>
-</p>
+<img src="assets/desk.gif" alt="pixel desk gif" width="100%" />
 
 # About Me
 
