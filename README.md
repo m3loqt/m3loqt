@@ -12,7 +12,7 @@ Hi, I’m Mel Angelo. I’m a software developer from Cebu City in the Philippin
   </a>
 </p>
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <table>
   <tr>
